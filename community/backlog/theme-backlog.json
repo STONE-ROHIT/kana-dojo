@@ -826,10 +826,10 @@
     "backgroundColor": "oklch(14.0% 0.058 290.0 / 1)",
     "mainColor": "oklch(88.0% 0.195 95.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.180 275.0 / 1)",
-    "issued": true,
+    "issued": false,
     "completed": false,
-    "completedBy": "Gautam25Raj",
-    "completedPR": 17196
+    "completedBy": "Mostafa-Shariare",
+    "completedPR": 17915
   },
   {
     "id": "wind-god",
